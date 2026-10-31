@@ -111,7 +111,7 @@ specs/                             # solution specs and design notes
 ### Clone & authorize an org
 
 ```bash
-git clone https://github.com/Rdevang/Onco-Global-Health.git
+git clone https://github.com/fsdev0108/Onco-Global-Health.git
 cd Onco-Global-Health
 npm install
 sf org login web --alias onco-dev --set-default
